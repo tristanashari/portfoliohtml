@@ -1,0 +1,38 @@
+.introPage {
+    display: flex;
+    background: linear-gradient( white, rgb(245, 245, 183) );
+    justify-content: center;
+}
+img {
+    width: 200px;
+    border-radius: 100px;
+}
+h4 {
+    font-family:'Roboto', sans-serif;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+.introText , .portrait{
+    width: 400px;
+    padding: 50px 20px;
+    margin: 100px 50px;
+}
+
+.introDesc {
+    margin-top: 100px;
+    font-size:large;
+    font-family: 'Roboto', sans-serif;
+}
+
+.projectsPage{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(8, 8, 44);
+}
+
+.pageTitle {
+    color:rgb(245, 245, 183);
+    font-family: 'Roboto', sans-serif;
+    padding: 40px 80px;
+}
